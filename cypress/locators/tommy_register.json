@@ -1,0 +1,21 @@
+{   
+    "closeButton" : "[data-testid=close-button]",
+    "signButton" : "[data-testid=sign-in-button]",
+    "registerButton" : "[data-testid=register]",
+    "emailInput" : "#create-account-email",
+    "passwordInput" : "#create-account-password",
+    "checkboxLabel" : ".agree-terms > [data-testid=checkbox-label]",
+    "checkbox" : ".agree-terms > [data-testid=checkbox]",
+    "primaryButton" : "[data-testid=Button-primary-new] > :nth-child(2) > span",
+    "newsletterLabel" : ".create-account-newsletter > [data-testid=checkbox-label]",
+    "newsletter" : ".create-account-newsletter > [data-testid=checkbox]",
+    "backdrop" : "[data-testid=modal-backdrop]",
+    "error" : ".error-text",
+    "modelClosebtn" : "[data-testid=modal-close-btn]"
+
+    
+
+
+    
+    
+}

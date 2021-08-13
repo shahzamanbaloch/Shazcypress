@@ -1,0 +1,12 @@
+{
+    "email": "tes1t@example.com",
+    "password": "tommy123",
+    "Invalidemail": "tommy",
+    "Invalidpassword": "tomm",
+    "Duplicateemail": "tes1t@example.com",
+    "Duplicatepassword": "tomm1234567",
+    "withoutemail": "tes1t1234@example.com",
+    "withoutpassword": "tomm1234567"
+
+
+}

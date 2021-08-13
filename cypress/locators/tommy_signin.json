@@ -1,0 +1,26 @@
+{   
+    "overLaybutton": ".ReactModal__Overlay",
+    "closeButton" : "[data-testid=close-button]",
+    "signButton" : "[data-testid=sign-in-button]",
+    "emailInputField" : "#signin-email",
+    "password" : "#signin-password",
+    "submitButton" : "[data-testid=Button-primary-new] > :nth-child(2)",
+    "myAccountIcon" : ".header__link",
+    "myAccountmouseover" : ".header__link.account__icon.header__link--name",
+    "adressBook" : "[href='/myaccount/addressbook?storeId=30019&langId=31'] > .overview__item-title",
+    "adressBookbtn" : "[data-testid='address-add-button'].address-book__add",
+    "firstname" : "//div[@class='address-new my-account-form']//div[1]//input[1]",
+    "lastname" : "//div[contains(@class,'address-new my-account-form')]//input[@id='lastName']",
+    "city" : ".address-new > .address-form > :nth-child(6) > #city",
+    "address" : ".address-new > .address-form > :nth-child(5) > #address2",
+    "zipcode": ".address-new > .address-form > :nth-child(7) > #zipCode",
+    "telephone" : ".address-new > .address-form > :nth-child(8) > #phone1",
+    "saveBtn" : "[data-testid=address-save-button]",
+    "updateBtn" : "[data-testid=address-update-button]",
+    "closeContent" : "ReactModal__Content"
+    
+
+
+    
+    
+}
