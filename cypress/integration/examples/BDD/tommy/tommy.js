@@ -2,7 +2,6 @@ import signUp from './signUp';
 
 const signUpPage = new signUp()
 
-
 describe('Sign in', function() {
 
     it('TC01 Create new account with valid data', function() {
