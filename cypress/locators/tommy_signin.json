@@ -8,19 +8,29 @@
     "myAccountIcon" : ".header__link",
     "myAccountmouseover" : ".header__link.account__icon.header__link--name",
     "adressBook" : "[href='/myaccount/addressbook?storeId=30019&langId=31'] > .overview__item-title",
-    "adressBookbtn" : "[data-testid='address-add-button'].address-book__add",
-    "firstname" : "//div[@class='address-new my-account-form']//div[1]//input[1]",
-    "lastname" : "//div[contains(@class,'address-new my-account-form')]//input[@id='lastName']",
-    "city" : ".address-new > .address-form > :nth-child(6) > #city",
-    "address" : ".address-new > .address-form > :nth-child(5) > #address2",
-    "zipcode": ".address-new > .address-form > :nth-child(7) > #zipCode",
-    "telephone" : ".address-new > .address-form > :nth-child(8) > #phone1",
+    "addAressbtn" : "[data-testid=address-add-button]",
+    "firstname" : "#firstName",
+    "lastname" : "#lastName",
+    "city" : "#city",
+    "address" : "#address1",
+    "houseNumber" : "#address2",
+    "zipcode": "#zipCode",
+    "telephone" : "#phone1",
     "saveBtn" : "[data-testid=address-save-button]",
     "updateBtn" : "[data-testid=address-update-button]",
-    "closeContent" : "ReactModal__Content"
+    "closeContent" : "ReactModal__Content",
+    "niewAdresButton" : ".address-book__add",
+    "countryName" : "#country",
+    "deleteButton" : "[data-testid=address-delete-button]",
+    "accountPageTitle" : ".my-account__title",
+    "addAddressButton" : "[data-testid=address-add-button]",
+    "signOutButton" : ".Button__secondary--inverse"
+
+    
     
 
 
     
     
 }
+
