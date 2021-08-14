@@ -2,7 +2,7 @@
   "testFiles": "**/*.js",
   "chromeWebSecurity": false,
   "TAGS": "not @ignore",
-  "defaultCommandTimeout": 20000,
+  "defaultCommandTimeout": 50000,
   "viewportWidth": 1100,
   "viewportHeight": 660,
   "env": {
